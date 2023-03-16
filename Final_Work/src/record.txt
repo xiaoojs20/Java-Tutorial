@@ -1,0 +1,4 @@
+PLAYER: (7,10)
+ROBOT: (7,10)
+PLAYER: (7,7)
+ROBOT: (7,7)
